@@ -1,0 +1,23 @@
+{
+  "name": "my-first-electron-app",
+  "version": "1.0.0",
+  "description": "Aplicativo Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katsuaki249/electron-app.git"
+  },
+  "author": "Vinicius Shiroma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Katsuaki249/electron-app/issues"
+  },
+  "homepage": "https://github.com/Katsuaki249/electron-app#readme",
+  "devDependencies": {
+    "electron": "^32.2.0"
+  }
+}
